@@ -1,0 +1,3 @@
+# Uncomment these and commit the gitignore to hide from committing these files to a git repo
+# .env
+# config/.env.secret
